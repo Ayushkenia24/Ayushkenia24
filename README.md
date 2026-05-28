@@ -49,7 +49,7 @@
 
 ---
 
-> [📄 Download My Resume](https://github.com/Ayushkenia24/Ayushkenia24/blob/main/resume.pdf)
+> [📄 Download My Resume](https://github.com/Ayushkenia24/Ayushkenia24/blob/main/Resume.pdf)
 
 ---
 
